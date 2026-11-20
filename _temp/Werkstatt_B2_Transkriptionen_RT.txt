@@ -1,23 +1,4 @@
  	
-HÖRTEXT 3
-A: 	Hallo, was ist denn mit dir los? Du siehst so unglücklich aus.
-B: 	Ich muss zum Zahnarzt, weil ich ein Loch im Zahn habe. Das macht mir ganz schön Angst.
-A: 	Also, das unwohle Gefühl vor dem Zahnarztbesuch kennt wohl jeder, denn angenehm sind die 
-Behandlungen meistens wirklich nicht. Laut Statistik fürchtet sich ein Viertel der Patienten vor 
-großen Eingriffen, während 19 Prozent generell bei jedem Zahnarzt-Besuch Angst empfinden. 
-B: 	 Das überrascht mich nicht!
-A: 	Es kann schon hilfreich sein, mit dem Arzt über die Angst zu sprechen.  
-HÖRTEXT 4
-A:	Studenten beherrschen Grammatik und Rechtschreibung nicht, klagen Dozenten der Schweizer 
-Universitäten. Trotzdem legen aber die Lehrpersonen den Schwerpunkt vermehrt auf den Inhalt denn 
-auf Formfehler. Ist das richtig so?
-	
-Das Niveau der Studierenden sei zum Teil erschreckend, sagt Peter Kunz von der Rechtswissenschaft­
-lichen Fakultät der Universität Bern. Er meint damit nicht etwa das juristische Wissen der Studieren­
-den, sondern deren orthographische Kompetenzen.
-	
-Eine Erhebung der Universität Zürich gibt Kunz recht: Zwei von drei befragten Lehrern geben an, dass 
-Gymnasiasten mehr Fehler machen als noch vor zehn Jahren.
 
 
 === Seite 11 ===
